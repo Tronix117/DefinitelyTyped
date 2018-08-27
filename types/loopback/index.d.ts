@@ -974,7 +974,7 @@ declare namespace l {
             static sharedMethod: any;
 
             /** Contains additional model settings. */
-            settings: Settings;
+            static settings: Settings;
 
             constructor(data: any);
 
